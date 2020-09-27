@@ -7,7 +7,7 @@
    <tr>
       <th colspan="2" width="450" height="100"></th>
       <th width="50" height="20">
-   <a href="https://www.google.com">Gmail </a>&nbsp<a href="https://i.pinimg.com/736x/50/af/1a/50af1a67e06d6e8c1574ff34b7e1c948.jpg">image</a>&nbsp<a href="mailto:@gmail.com?subject = Feedback&body = Message">My_mail</a>
+   <a href="https://www.google.com">Gmail </a><a href="https://i.pinimg.com/736x/50/af/1a/50af1a67e06d6e8c1574ff34b7e1c948.jpg">image</a><a href="mailto:@gmail.com?subject = Feedback&body = Message">My_mail</a>
    </th>
    </tr>
     <tr>
@@ -27,7 +27,7 @@
    <tr>
     <td colspan="2" width="450" height="100"></td>
    <td width="450" height="100">
-    <a href="https://www.google.com">privacy</a>&nbsp<a href="https://www.google.com">terms</a>&nbsp<a href="https://www.google.com">settings</a>
+    <a href="https://www.google.com">privacy</a><a href="https://www.google.com">terms</a><a href="https://www.google.com">settings</a>
     </td>
  </tr>
 </table>
