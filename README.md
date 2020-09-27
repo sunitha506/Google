@@ -22,12 +22,7 @@
       <tr> 
       <td width="450" height="100"><input type="submit" value="Google Search" class="button">
        <input type="submit" value="I'm feeling Lucky" class="button"></td>
-        <td width="100" height="100">Google more in
-         <a href="https://www.google.com">English </a><a href="https://www.google.com">Hindi </a><a href="https://www.google.com">Tamil.....</a>
-       </td>
-         
-       
- </tr>
+      </tr>
    <tr>
     <td colspan="2" width="450" height="100"></td>
    <td width="450" height="100">
