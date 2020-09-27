@@ -2,7 +2,7 @@
  <head> 
   <h1>Google layout</h1> 
 </head> 
- <bodystyle="width:100%;"> 
+ <body> 
    <table style="width:100%;">
    <tr>
       <th colspan="2" width="450" height="100"></th>
